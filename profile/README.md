@@ -1,5 +1,3 @@
-# GitBundle
-
 ## What is GitBundle?
 
 [GitBundle](https://gitbundle.com) is a cloud-native, plugin-driven, out-of-the-box, self-hosted, modern Git service program. It is similar to GitHub, Bitbucket, and GitLab.
@@ -13,7 +11,11 @@ With Go, this can be done with an independent binary distribution
 across all platforms and architectures that Go supports. This support includes Linux, macOS, and
 Windows, on architectures like amd64, arm64, and others.
 
-## Features &&nbsp;[Pricing](https://gitbundle.com/pricing)
+## Pricing
+
+Currently we provide Free and Premium version for users. Free edition can do limited operations and did not support built-in, Premium edition allow user to do everything with GitBundle. [About Pricing](https://gitbundle.com/pricing).
+
+## Features
 
 - Support event timeline
 - Supports SSH and HTTP/HTTPS
