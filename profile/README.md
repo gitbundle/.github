@@ -13,6 +13,6 @@ It provides a streamlined workflow engine, an efficient Rust backend, and an arc
 
 ## Security & Trust Statement
 
-- **Audits**: There is currently no formal audit, but additional measures will be implemented in the future to strengthen it.
-- **Security**: Currently, the only built-in safeguard is secret detection using Gitleaks￼ to scan repositories for sensitive information. This feature can be configured individually for each repository, and additional security measures will be added in the future.
-- **Trust**: We do not collect any user data or repository content. Your privacy and control over your code are fully respected.
+- **Audits:** There is currently no formal audit, but additional measures will be implemented in the future to strengthen it, and these measures will be configurable.
+- **Security:** Currently, the only built-in safeguard is secret detection using gitleaks to scan repositories for sensitive information. This feature can be configured individually for each repository, and additional security measures will be added in the future.
+- **Trust:** GitBundle does not collect any user data or repository content. Your privacy and control over your code are fully respected.
