@@ -1,6 +1,6 @@
 # A Rust-powered, self-hosted code hosting platform
 
-🚧 **Version 3 is on the way** — a complete refactor in **Rust 1.88** for **performance**, **safety**, and **compatibility**.  
+**Version 3 is almost ready** — a complete refactor in **Rust** for **performance**, **safety**, and **compatibility**.  
 
 A **GitLab/GitHub-like** solution reimagined with the power of **Rust**, leveraging the modern ecosystem — **tokio**, **actix**, **git2-rs**, **SeaORM**, and **tracing** — to deliver:  
 
